@@ -1,0 +1,8 @@
+pring:
+  profiles:
+    active: git
+  cloud:
+    config:
+      server:
+        git:
+          uri: file://https://github.com/PrasanthMohanCognizant/apps-platform-acceleration-spring-configuration-code
